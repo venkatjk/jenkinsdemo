@@ -1,1 +1,2 @@
 # jenkinsdemo
+pollscm example
